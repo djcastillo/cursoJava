@@ -5,7 +5,7 @@
  */
 package aritmetica;
 
-/**
+/** 
  *
  * @author dcastillo
  */
